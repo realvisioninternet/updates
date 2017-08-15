@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <updates>
+	<update>
+		<name>Jinspector Joomla! Site Inspector/name>
+		<description>This plugin will gather information about your Joomla! installation, trigger the Find Updates option in your Joomla! installer at a pre specified interval and email you the information.<br> You can specify a custom email address, or addresses or select a user group to receive notifications. The notification interval can be set in the plugin, current options are daily, weekly, two weekly, and four weekly.</description>
+		<element>plg_system_jinspector</element>
+		<type>plugin</type>
+		<version>0.0.3</version>
+		<downloads>
+			<downloadurl type="full" format="zip">http://www.example.com/mod_helloworld_101.zip</downloadurl>
+		</downloads>
+		<maintainer>Joomla! Fixers</maintainer>
+		<maintainerurl>https://joomlafixers.com/jinspector</maintainerurl>
+		<targetplatform name="joomla" version="3.0"/>
+		<client>site</client>
+	</update>
+</updates>
