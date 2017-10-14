@@ -6,7 +6,7 @@
 
 		<element>plg_system_jinspector</element>
 		<type>plugin</type>
-		<version>1.0.0</version>  
+		<version>1.0.2</version>  
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/realvisioninternet/releases/blob/master/jinspector-V-1.0.0.zip</downloadurl>
 		</downloads>
