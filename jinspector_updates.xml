@@ -2,8 +2,7 @@
   <updates>
 	<update>
         <name><![CDATA[Jinspector Joomla! Site Inspector]]></name>
-		<name>
-		<description><![CDATA[ This plugin will gather information about your Joomla! installation, trigger the Find Updates option in your Joomla! installer at a pre specified interval and email you the information.<br> You can specify a custom email address, or addresses or select a user group to receive notifications. The notification interval can be set in the plugin, current options are daily, weekly, two weekly, and four weekly. ]]>
+		<description><![CDATA[ This plugin will gather information about your Joomla! installation, trigger the Find Updates option in your Joomla! installer at a pre specified interval and email you the information.<br> You can specify a custom email address, or addresses or select a user group to receive notifications. The notification interval can be set in the plugin, current options are daily, weekly, two weekly, and four weekly. ]]></description>
 		<element>jinspector</element>
 		<type>plugin</type>
                 <folder>system</folder>
