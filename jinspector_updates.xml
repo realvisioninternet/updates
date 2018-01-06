@@ -7,7 +7,7 @@
 		<type>plugin</type>
                 <folder>system</folder>
                 <version>1.0.14</version>
-		<client>site</client>
+		<client>0</client>
                   <tags>
          <tag>stable</tag>
       </tags>
