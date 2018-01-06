@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
   <updates>
 	<update>
-		<name>Jinspector Joomla! Site Inspector</name>
         <name><![CDATA[Jinspector Joomla! Site Inspector]]></name>
 		<description>This plugin will gather information about your Joomla! installation, trigger the Find Updates option in your Joomla! installer at a pre specified interval and email you the information.<br> You can specify a custom email address, or addresses or select a user group to receive notifications. The notification interval can be set in the plugin, current options are daily, weekly, two weekly, and four weekly.</description>
 		<element>jinspector</element>
@@ -12,12 +11,11 @@
                   <tags>
          <tag>stable</tag>
       </tags>
-               
-		<downloads>
+	<downloads>
             <downloadurl type="full" format="zip">
                 <![CDATA[https://github.com/realvisioninternet/releases/releases/download/V-1.0.6/jinspector-V-1.0.14.zip]]>
                </downloadurl>
-		</downloads>
+	</downloads>
          <maintainer><![CDATA[Realvision Internet Limited]]></maintainer>
 		<maintainer>Realvision Internet Limited</maintainer>
 		<maintainerurl>https://joomlafixers.com/extensions/jinspector-joomla-site-inspector</maintainerurl>
