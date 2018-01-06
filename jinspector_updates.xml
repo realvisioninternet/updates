@@ -13,7 +13,7 @@
                     </tags>
 	<downloads>
             <downloadurl type="full" format="zip">
-                <![CDATA[https://github.com/realvisioninternet/jinspector/raw/master/jinspector-V-1.0.0.zip]]>
+                https://github.com/realvisioninternet/jinspector/raw/master/jinspector-V-1.0.0.zip
                </downloadurl>
 	</downloads>
          <maintainer><![CDATA[Realvision Internet Limited]]></maintainer>
