@@ -19,6 +19,7 @@
          <maintainer><![CDATA[Realvision Internet Limited]]></maintainer>
 		<maintainer>Realvision Internet Limited</maintainer>
 		<maintainerurl>https://joomlafixers.com/extensions/jinspector-joomla-site-inspector</maintainerurl>
+		<section>Updates</section>
         <targetplatform name="joomla" version="3.x"/>
 	</update>
 </updates>
