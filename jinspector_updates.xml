@@ -6,8 +6,8 @@
 		<element>jinspector</element>
 		<type>plugin</type>
                 <folder>system</folder>
-                 <client>site</client>
-		<version>0.0.14</version>
+                <version>0.0.14</version>
+		<client>site</client>
                   <tags>
          <tag>stable</tag>
       </tags>
